@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryForTrialAndTest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "519113d6-f9ec-4af5-a92d-829424568746",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
